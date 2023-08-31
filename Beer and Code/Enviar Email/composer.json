@@ -1,0 +1,17 @@
+{
+    "name": "sabri/pho-pdo",
+    "autoload": {
+        "psr-4": {
+            "Sabri\\PhoPdo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "SabSVL",
+            "email": "sabrina.venancio.luiz@gmail.com"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.8"
+    }
+}
